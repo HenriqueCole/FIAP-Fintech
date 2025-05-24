@@ -52,8 +52,6 @@ git clone https://github.com/seu-usuario/FIAP-Fintech.git
 
 2. Abra o arquivo `index.html` em qualquer navegador web moderno
 
-Ou acesse a [versão demo online](#) (em breve)
-
 ## 📚 Detalhes Técnicos
 
 - **CSS Personalizado** - Variáveis CSS para tema consistente
@@ -67,7 +65,7 @@ Este projeto foi baseado na imagem de referência fornecida (`reference.png`), q
 
 ## 👨‍💻 Autor
 
-Desenvolvido para a atividade acadêmica da FIAP - Sistemas para Internet.
+Desenvolvido para a atividade acadêmica da FIAP.
 
 ---
 
