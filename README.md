@@ -63,28 +63,6 @@ git clone https://github.com/your-username/FIAP-Fintech.git
 
 This project was based on the provided reference image (`assets/images/reference.png`), which served as a guide for the interface implementation.
 
-## 🗂️ Project Structure
-
-```
-FIAP-Fintech/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── main.js
-│   ├── images/
-│   │   ├── logo.svg
-│   │   └── reference.png
-│   └── fonts/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── js/
-│   └── css/
-├── index.html
-└── README.md
-```
-
 ## 👨‍💻 Author
 
 Developed for FIAP academic activity.
